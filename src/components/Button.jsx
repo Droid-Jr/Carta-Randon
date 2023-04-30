@@ -19,7 +19,7 @@ const Button = ({ outIndex, phrase,setStado,setAnime }) => {
         const newIndex = Math.floor(Math.random() * phrase);
         outIndex(newIndex)
         setImg(newIndex);
-      },2450 )
+      },2500 )
       
 
       
